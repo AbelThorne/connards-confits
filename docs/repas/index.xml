@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repas on Connards Confits - Tables Ephémères</title>
+    <link>http://abelthorne.github.io/connards-confits/repas/</link>
+    <description>Recent content in Repas on Connards Confits - Tables Ephémères</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 04 Apr 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://abelthorne.github.io/connards-confits/repas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Session #1 - Printemps</title>
+      <link>http://abelthorne.github.io/connards-confits/repas/session-01/</link>
+      <pubDate>Thu, 04 Apr 2019 21:54:52 +0200</pubDate>
+      
+      <guid>http://abelthorne.github.io/connards-confits/repas/session-01/</guid>
+      <description>Session inaugurale des Connards Confits Cette première session s&amp;rsquo;est tenue le 23 Mars 2019. Les participants:
+ Julien &amp;amp; Stéphanie (hôtes) Juliette &amp;amp; Gaétan Max Julie &amp;amp; David Ju Delage Gillo &amp;amp; Julie  Amuse-bouche Crème légère de petits pois, estragon et citron
+Toast croustillant à la rillette de veau
+(Champagne Origin&amp;rsquo;Elle, Françoise Bedel) - fiche
+  Entrée Vittelo Tonnato comme des makis, sauce crémeuse à la ventrèche de thon et câpres, salade printanière &amp;ldquo;Tonno Vittelato&amp;rdquo;, thon mariné soja et gingembre, jus de veau, poudre de câpres</description>
+    </item>
+    
+  </channel>
+</rss>

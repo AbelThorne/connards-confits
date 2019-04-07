@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://abelthorne.github.io/connards-confits/"
 languageCode = "fr-FR"
 title = "Connards Confits - Tables Ephémères"
 theme = "ananke"
@@ -10,6 +10,7 @@ Paginate = 20 # this is set low for demonstrating with dummy content. Set to a h
 googleAnalytics = ""
 enableRobotsTXT = false
 refLinksErrorLevel = "WARNING"
+publishDir = "docs"
 
 [sitemap]
   changefreq = "monthly"
