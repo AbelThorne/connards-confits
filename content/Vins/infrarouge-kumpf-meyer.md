@@ -9,7 +9,7 @@ Infrarouge 2017 de Kumpf & Meyer
 
 {{< figure src="/images/session-01-images/vins/kumpf-et-meyer-infrarouge-close.jpg" >}}
 
-Dégusté durant la [session 01]({{< ref "Repas/session-01" >}}), en accompagnement du Vittelo Tonnato en deux services
+Dégusté durant la [session 01]({{< ref "/Repas/session-01" >}}), en accompagnement du Vittelo Tonnato en deux services
 
 Vin nature, 100% Pinot Noir
 

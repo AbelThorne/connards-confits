@@ -22,7 +22,7 @@ _________________
   <p>*Crème légère de petits pois, estragon et citron*<br>
   <p>*Toast croustillant à la rillette de veau*<br>
 
-  <p>*(Champagne Origin'Elle, Françoise Bedel) - [fiche]({{< ref "Vins/champagne-originelle" >}})*
+  <p>*(Champagne Origin'Elle, Françoise Bedel) - [fiche]({{< ref "/Vins/champagne-originelle" >}})*
 _________________
 
 {{< figure src="/images/session-01-images/amuse-bouche/IMG_0270.jpg" >}}
@@ -33,7 +33,7 @@ _________________
   <p>*Vittelo Tonnato comme des makis, sauce crémeuse à la ventrèche de thon et câpres, salade printanière* <br>
   <p>*"Tonno Vittelato", thon mariné soja et gingembre, jus de veau, poudre de câpres*<br>
 
-  <p>*(Infrarouge 2017, Kumpf & Meyer, Alsace) - [fiche]({{< ref "Vins/infrarouge-kumpf-meyer" >}})*
+  <p>*(Infrarouge 2017, Kumpf & Meyer, Alsace) - [fiche]({{< ref "/Vins/infrarouge-kumpf-meyer" >}})*
 _________________
 
 {{< figure src="/images/session-01-images/entree/IMG_0306.jpg" >}}
@@ -47,7 +47,7 @@ _________________
   <p>*Pomme de terre en croûte de pâte à sel, fumée au foin, sauge*<br>
   <p>*Shot jus de carottes et jus de volaille, vinaigre de cidre*<br>
 
-  <p>*(Croix de Saint-Privat, Grande Cuvée 2016, Terrasses du Larzac) - [fiche]({{< ref "Vins/larzac-croix-de-saint-privat" >}})*
+  <p>*(Croix de Saint-Privat, Grande Cuvée 2016, Terrasses du Larzac) - [fiche]({{< ref "/Vins/larzac-croix-de-saint-privat" >}})*
 _________________
 
 {{< figure src="/images/session-01-images/plat/IMG_0305.jpg" >}}

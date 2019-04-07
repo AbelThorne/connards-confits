@@ -9,6 +9,6 @@ Domaine de Saint-Privat, Grande Cuvée 2016, Terrasses du Larzac
 
 {{< figure src="/images/session-01-images/vins/larzac-croix-saint-privat.jpg" >}}
 
-Dégusté durant la [session 01]({{< ref "Repas/session-01" >}}), en accompagnement du plat
+Dégusté durant la [session 01]({{< ref "/Repas/session-01" >}}), en accompagnement du plat
 
 Solide et équilibré, belle puissance.
