@@ -2,6 +2,7 @@
 title: "Infrarouge de Kumpf & Meyer"
 date: 2017-04-04T12:00:00-05:00
 featured_image: "/images/session-01-images/vins/kumpf-et-meyer-infrarouge.jpg"
+type: "post"
 ---
 
 Infrarouge 2017 de Kumpf & Meyer

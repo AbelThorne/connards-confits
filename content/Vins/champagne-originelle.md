@@ -2,6 +2,7 @@
 title: "Champagne Origin'Elle, Françoise Bedel"
 date: 2017-04-06T12:00:00-05:00
 featured_image: "/images/session-01-images/vins/champagne-originelle.jpg"
+type: "post"
 ---
 
 Champagne Origin'Elle de Françoise Bedel

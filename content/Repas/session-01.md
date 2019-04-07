@@ -2,6 +2,7 @@
 title: "Session #1 - Printemps"
 date: 2019-04-04T21:54:52+02:00
 featured_image: "images/session-01-images/spring-session-background.jpg"
+type: "post"
 ---
 
 # Session inaugurale des Connards Confits
@@ -36,7 +37,7 @@ _________________
   <p>*(Infrarouge 2017, Kumpf & Meyer, Alsace) - [fiche]({{< ref "/Vins/infrarouge-kumpf-meyer" >}})*
 _________________
 
-{{< figure src="/images/session-01-images/entree/IMG_0306.jpg" >}}
+![](/images/session-01-images/entree/IMG_0306.jpg)
 {{< figure src="/images/session-01-images/entree/IMG_0324.jpg" >}}
 {{< figure src="/images/session-01-images/entree/IMG_0303.jpg" >}}
 

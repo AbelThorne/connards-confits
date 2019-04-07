@@ -11,6 +11,7 @@ googleAnalytics = ""
 enableRobotsTXT = false
 refLinksErrorLevel = "WARNING"
 publishDir = "docs"
+canonifyurls = "true"
 
 [sitemap]
   changefreq = "monthly"

@@ -2,6 +2,7 @@
 title: "Domaine de Saint-Privat, Grande Cuvée 2016, Terrasses du Larzac"
 date: 2017-04-04T12:00:00-05:00
 featured_image: "/images/session-01-images/vins/larzac-croix-saint-privat.jpg"
+type: "post"
 ---
 
 Domaine de Saint-Privat, Grande Cuvée 2016, Terrasses du Larzac
