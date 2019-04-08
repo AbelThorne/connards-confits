@@ -1,4 +1,4 @@
-baseURL = "http://abelthorne.github.io/connards-confits/"
+baseURL = "https://abelthorne.github.io/connards-confits/"
 languageCode = "fr-FR"
 title = "Connards Confits - Tables Ephémères"
 theme = "ananke"
