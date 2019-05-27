@@ -1,8 +1,7 @@
 ---
 title: "Session #1 - Printemps"
-date: 2019-04-04T21:54:52+02:00
+date: 2019-04-08T21:54:52+02:00
 featured_image: "images/session-01-images/spring-session-background.jpg"
-type: "post"
 ---
 
 # Session inaugurale des Connards Confits

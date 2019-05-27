@@ -4,4 +4,4 @@ date: 2017-04-04T12:00:00-05:00
 featured_image: "images/reservation.jpg"
 ---
 Réservez votre place pour la prochaine session.
-(En construction)
+Ça se passe [ICI](https://yurplan.com/event/Connards-Confits-Session-02-Ete/44266)
