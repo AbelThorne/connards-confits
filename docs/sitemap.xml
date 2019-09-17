@@ -3,14 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://abelthorne.github.io/connards-confits/repas/session-01/</loc>
-    <lastmod>2019-04-08T21:54:52+02:00</lastmod>
+    <loc>https://abelthorne.github.io/connards-confits/repas/session-02/</loc>
+    <lastmod>2019-09-17T21:10:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://abelthorne.github.io/connards-confits/repas/session-02/</loc>
+    <loc>https://abelthorne.github.io/connards-confits/repas/session-01/</loc>
     <lastmod>2019-04-08T21:54:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -80,7 +80,7 @@
   
   <url>
     <loc>https://abelthorne.github.io/connards-confits/</loc>
-    <lastmod>2019-04-08T21:54:52+02:00</lastmod>
+    <lastmod>2019-09-17T21:10:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
