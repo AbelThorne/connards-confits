@@ -4,7 +4,7 @@ date: 2019-04-08T21:54:52+02:00
 featured_image: "images/session-02-images/summer-session-background.jpg"
 ---
 
-# Session inaugurale des Connards Confits
+# Session d'été des Connards Confits
 
 La deuxième session s'est tenue le 10 Août 2019.
 Les participants:
