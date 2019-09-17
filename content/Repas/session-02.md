@@ -41,18 +41,14 @@ _________________
   <p>*Boulettes de porc façon thaï, coeur coulant coquillages, coques et pickle de salicorne*<br>
   <p>*Risotto d'épeautre au lait ribot*<br>
   <p>*Courgettes rôties*<br>
-
-  <p>*(Banlieue rouge))*
 _________________
 
 
 ### Dessert
 
 _________________
-  <p>*Shortbread, pêches au sirop de sauge, mousse de petits suisses, sauge cristallisée*<br>
+  <p>*Shortbread, pêches au sirop de sauge, mousse de petits suisses, demi-sphère chocolat blanc, sauge cristallisée*<br>
   <p>*Glace au sésame noir "minute"*<br>
-
-  <p>*(biere pèche)*
 _________________
 
 {{< figure src="/images/session-02-images/dessert/dessert01.jpg" >}}
