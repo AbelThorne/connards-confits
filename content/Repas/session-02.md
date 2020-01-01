@@ -1,6 +1,6 @@
 ---
 title: "Session #2 - Été"
-date: 2019-09-17T21:10:52+02:00
+date: 2019-08-10T21:10:52+02:00
 featured_image: "images/session-02-images/summer-session-background.jpg"
 ---
 

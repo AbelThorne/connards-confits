@@ -3,42 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://abelthorne.github.io/connards-confits/vins/alveoline-rouanet-montcelebre/</loc>
+    <lastmod>2019-11-10T21:10:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://abelthorne.github.io/connards-confits/vins/cremant-brut-kumpf-meyer/</loc>
+    <lastmod>2019-11-10T21:10:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://abelthorne.github.io/connards-confits/vins/epiphyte-sandrine-farrugia/</loc>
+    <lastmod>2019-11-10T21:10:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://abelthorne.github.io/connards-confits/repas/session-03/</loc>
+    <lastmod>2019-11-10T21:10:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://abelthorne.github.io/connards-confits/vins/utopiste-kumpf-meyer/</loc>
+    <lastmod>2019-11-10T21:10:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://abelthorne.github.io/connards-confits/repas/session-02/</loc>
-    <lastmod>2019-09-17T21:10:52+02:00</lastmod>
+    <lastmod>2019-08-10T21:10:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://abelthorne.github.io/connards-confits/repas/session-01/</loc>
-    <lastmod>2019-04-08T21:54:52+02:00</lastmod>
+    <lastmod>2019-03-23T21:54:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://abelthorne.github.io/connards-confits/vins/champagne-originelle/</loc>
-    <lastmod>2017-04-06T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://abelthorne.github.io/connards-confits/a-propos/</loc>
-    <lastmod>2017-04-04T12:00:00-05:00</lastmod>
+    <lastmod>2019-03-23T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://abelthorne.github.io/connards-confits/vins/larzac-croix-de-saint-privat/</loc>
-    <lastmod>2017-04-04T12:00:00-05:00</lastmod>
+    <lastmod>2019-03-23T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://abelthorne.github.io/connards-confits/vins/infrarouge-kumpf-meyer/</loc>
+    <lastmod>2019-03-23T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://abelthorne.github.io/connards-confits/a-propos/</loc>
     <lastmod>2017-04-04T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -80,7 +115,7 @@
   
   <url>
     <loc>https://abelthorne.github.io/connards-confits/</loc>
-    <lastmod>2019-09-17T21:10:52+02:00</lastmod>
+    <lastmod>2019-11-10T21:10:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

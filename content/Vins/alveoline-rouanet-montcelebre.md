@@ -1,6 +1,6 @@
 ---
 title: "Alveoline de Rouanet Montcélèbre"
-date: 2017-04-04T12:00:00-05:00
+date: 2019-11-10T21:10:52+02:00
 featured_image: "/images/session-03-images/vins/alveoline-rouanet-montcelebre.jpg"
 ---
 

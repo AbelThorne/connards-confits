@@ -1,6 +1,6 @@
 ---
 title: "Session #3 - Automne"
-date: 2019-09-17T21:10:52+02:00
+date: 2019-11-10T21:10:52+02:00
 featured_image: "images/session-02-images/autumn-session-background.jpg"
 ---
 

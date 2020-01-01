@@ -1,10 +1,10 @@
 ---
-title: "Utopiste de Kumpf & Meyer"
-date: 2017-04-04T12:00:00-05:00
+title: "Utopiste 2018 de Kumpf & Meyer"
+date: 2019-11-10T21:10:52+02:00
 featured_image: "/images/session-03-images/vins/utopiste-kumpf-meyer.jpg"
 ---
 
-Utopiste 2017 de Kumpf & Meyer
+Utopiste 2018 de Kumpf & Meyer
 ---------------------------
 
 {{< figure src="/images/session-03-images/vins/utopiste-kumpf-meyer.jpg" >}}
