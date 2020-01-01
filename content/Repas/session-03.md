@@ -1,7 +1,7 @@
 ---
 title: "Session #3 - Automne"
 date: 2019-11-10T21:10:52+02:00
-featured_image: "images/session-02-images/autumn-session-background.jpg"
+featured_image: "images/session-03-images/autumn-session-background.jpg"
 ---
 
 # Session d'été des Connards Confits
