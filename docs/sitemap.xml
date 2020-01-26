@@ -73,6 +73,13 @@
   </url>
   
   <url>
+    <loc>https://abelthorne.github.io/connards-confits/repas/session-04/</loc>
+    <lastmod>2019-01-25T21:10:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://abelthorne.github.io/connards-confits/a-propos/</loc>
     <lastmod>2017-04-04T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -108,6 +115,18 @@
   </url>
   
   <url>
+    <loc>https://abelthorne.github.io/connards-confits/vins/brana-naba-jurancon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://abelthorne.github.io/connards-confits/vins/camille-lapierre-morgon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://abelthorne.github.io/connards-confits/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -118,6 +137,18 @@
     <lastmod>2019-11-10T21:10:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abelthorne.github.io/connards-confits/vins/grenat-delmas-rivesalt/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://abelthorne.github.io/connards-confits/vins/lescotes-duport-bugey/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
