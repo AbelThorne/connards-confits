@@ -4,9 +4,9 @@ date: 2019-11-10T21:10:52+02:00
 featured_image: "images/session-03-images/autumn-session-background.jpg"
 ---
 
-# Session d'été des Connards Confits
+# Session d'automne des Connards Confits
 
-La deuxième session s'est tenue le 10 Novembre 2019.
+La troisième session s'est tenue le 10 Novembre 2019.
 Les participants:
 
   * Julien & Stéphanie (hôtes)
