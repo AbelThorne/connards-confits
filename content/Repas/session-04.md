@@ -23,7 +23,7 @@ _________________
   <p>*(Brana 2017, Domaine de Naba, Jurançon) - [fiche]({{< ref "/Vins/brana-naba-jurancon" >}})*
 _________________
 
-{{< figure src="/images/session-04-images/amuse-bouche/amuse-bouche01.jpg" >}}
+{{< figure src="/images/session-04-images/amuse-bouche/amuse-bouche01.JPG" >}}
 <!-- {{< figure src="/images/session-04-images/amuse-bouche/amuse-bouche02.jpg" >}} -->
 
 ### Entrée
@@ -35,9 +35,9 @@ _________________
   <p>*(Les Côtes 2018, Yves Duport, Bugey Blanc) - [fiche]({{< ref "/Vins/lescotes-duport-bugey" >}})*
 _________________
 
-{{< figure src="/images/session-04-images/entree/entree01.jpg" >}}
-{{< figure src="/images/session-04-images/entree/entree02.jpg" >}}
-{{< figure src="/images/session-04-images/entree/entree03.jpg" >}}
+{{< figure src="/images/session-04-images/entree/entree01.JPG" >}}
+{{< figure src="/images/session-04-images/entree/entree02.JPG" >}}
+{{< figure src="/images/session-04-images/entree/entree03.JPG" >}}
 
 ### Plat
 
@@ -50,9 +50,9 @@ _________________
   <p>*(Camille 2018, Marcel Lapierre, Morgon) - [fiche]({{< ref "/Vins/camille-lapierre-morgon" >}})*
 _________________
 
-{{< figure src="/images/session-04-images/plat/plat01.jpg" >}}
-{{< figure src="/images/session-04-images/plat/plat02.jpg" >}}
-{{< figure src="/images/session-04-images/plat/plat03.jpg" >}}
+{{< figure src="/images/session-04-images/plat/plat01.JPG" >}}
+{{< figure src="/images/session-04-images/plat/plat02.JPG" >}}
+{{< figure src="/images/session-04-images/plat/plat03.JPG" >}}
 <!-- {{< figure src="/images/session-04-images/plat/plat04.jpg" >}} -->
 
 ### Dessert
@@ -65,9 +65,6 @@ _________________
   <p>*(Grenat 2018, Marie Delmas, Rivesalt) - [fiche]({{< ref "/Vins/grenat-delmas-rivesalt" >}})*
 _________________
 
-{{< figure src="/images/session-04-images/dessert/dessert01.jpg" >}}
-{{< figure src="/images/session-04-images/dessert/dessert02.jpg" >}}
-{{< figure src="/images/session-04-images/dessert/dessert03.jpg" >}}
-
-
-(Background photo by Aaron Burden on Unsplash)
+{{< figure src="/images/session-04-images/dessert/dessert01.JPG" >}}
+{{< figure src="/images/session-04-images/dessert/dessert02.JPG" >}}
+{{< figure src="/images/session-04-images/dessert/dessert03.JPG" >}}
